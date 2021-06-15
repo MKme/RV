@@ -10,7 +10,7 @@
 Support this project and become a patron on <a href="https://www.patreon.com/EricWilliam">Patreon</a>.<br>
 Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
-<img src="https://github.com/MKme/eprom/blob/main/ref/s-l1600.jpg" width="700"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/61nI5zbFUpL._SL1000_.jpg" width="700"/>
 
 
 # RV
