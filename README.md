@@ -26,3 +26,7 @@ Small solar panel monitor: https://amzn.to/3wslQjV
 
 Inverter/transfer switch stuffs 
 
+## STLs
+
+All attribution and original links inside zips- See original designs there
+
