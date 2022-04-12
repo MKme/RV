@@ -14,6 +14,13 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # RV Camper Mods and Hacks
 
+
+## MPPT Charge Controller 
+
+Charge Controller I have: https://amzn.to/3JxVAu8
+
+I am working on a hack to do a remote display
+
 ## Electrical Panel: 
 
 Electrical panel is laser cut on the k40 in acrylic panel 
@@ -23,6 +30,8 @@ Main system monitor: https://amzn.to/3gyVjdO
 Small solar panel monitor: https://amzn.to/3wslQjV
 
 ## Inverter 
+
+Renogy Unit I have: https://amzn.to/3O5Olgo
 
 Inverter/transfer switch stuffs 
 
