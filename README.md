@@ -14,6 +14,23 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # RV Camper Mods and Hacks
 
+## LED Lighting retrofit 
+
+I changed all 1156/1157 incandescent bulbs over to LED which are brighter and cosnume far less power
+
+Full video: https://www.youtube.com/watch?v=9XqmBiSZTkM
+
+GOOD bulbs I used (the cooler and brighter ones): https://amzn.to/3jEweA2
+
+Vanity bulbs: https://amzn.to/3LXTOE2
+
+194 Cool white https://amzn.to/3KAImhr
+
+Ceiling dome light fixtures https://amzn.to/3vnNEXo
+
+
+
+
 ## Electrical Panel: 
 
 Electrical panel is laser cut on the k40 in acrylic panel 
