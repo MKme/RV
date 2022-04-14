@@ -14,6 +14,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # RV Camper Mods and Hacks
 
+<<<<<<< HEAD
 ## LED Lighting retrofit 
 
 I changed all 1156/1157 incandescent bulbs over to LED which are brighter and cosnume far less power
@@ -30,6 +31,14 @@ Ceiling dome light fixtures https://amzn.to/3vnNEXo
 
 
 
+=======
+
+## MPPT Charge Controller 
+
+Charge Controller I have: https://amzn.to/3JxVAu8
+
+I am working on a hack to do a remote display
+>>>>>>> 3cd2c2fa22f848d90b5e305eb2b053cd61214497
 
 ## Electrical Panel: 
 
@@ -40,6 +49,8 @@ Main system monitor: https://amzn.to/3gyVjdO
 Small solar panel monitor: https://amzn.to/3wslQjV
 
 ## Inverter 
+
+Renogy Unit I have: https://amzn.to/3O5Olgo
 
 Inverter/transfer switch stuffs 
 
