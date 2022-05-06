@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww21400\viewh13980\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf2 Reading live data from a Victron MPPT controller with Arduino.\
+\
+\
+The information provided here, is based on the following video: https://youtu.be/w-9kYkSuCwc\
+\
+All necessary files can be found here: https://www.romlea.nl/Arduino MPPT/Page.htm\
+\
+The name of the sketch, as shown in the video on Youtube is: MPPT_TFT_sketch.ino. \
+This sketch can be uploaded to an Arduino.\
+\
+The sketch is based on the proof of concept by Scubashan, combined with code from demos as published by Adafruit. I cannot find the proof of concept by Scubashan anymore, but it is mentioned here: https://www.caravanersforum.com/viewtopic.php?t=63614\
+\
+The necessary libraries are in Adafruit libraries\
+\
+Demo\'92s of Adafruit sketches can be found in Adafruit TFT display.\
+\
+Just connect the cables for reading data as in the sketch, see the VE.Direct protocol document for understanding pins 1 to 4 on the MPPT controller.\
+\
+\
+JST plug and cable:\
+https://www.sparkfun.com/products/9916\
+\
+\
+Arduino MEGA and LCD display\
+https://www.aliexpress.com/item/Free-shipping-3-2-inch-TFT-LCD-screen-module-Ultra-HD-320X480-for-Arduino-MEGA-2560/32538935176.html?spm=2114.search0104.3.1.770f5a34gfZusj&ws_ab_test=searchweb0_0,searchweb201602_1_5729911_10065_10068_10547_319_317_10696_453_10084_454_10083_10618_10307_10301_10821_538_537_536_5730811_10059_10884_10887_100031_321_322_10103,searchweb201603_51,ppcSwitch_0&algo_expid=fc29651e-2dac-40d8-b080-94813ecb45b6-0&algo_pvid=fc29651e-2dac-40d8-b080-94813ecb45b6\
+\
+\
+This module is 3.2 inch\'a0TFT LCD with 262K color 480 x 320 resolutions.\'a0The controller of this LCD module is HX8357B,\'a0it supports 16-wires DataBus interface.\'a0Moreover, this module includes 5V~3.3V power conversion circuit and Level conversion circuit; This Module can Directly inserted into the\'a0Arduino Mega2560 Board, it also includes the SD card socket and SPI FLASH circuit.\
+\
+Victron VE.Direct protocol\
+https://www.victronenergy.com/support-and-downloads/whitepapers\
+But I have included the document in this folder.\
+\
+I have commented the sketch as much as possible, so you can find your way and change to your needs.\
+Once you understand the routines, it is not complicated.\
+\
+Mind that the code is for Arduino MEGA.\
+\
+If you want to wire up to another Arduino, f.i. the UNO, it is possible, but you need to mind serial communication, the code is different and maybe connection the the MPPT or the display. In that case, studying the Adafruit internet page about wiring these displays is a good start.\
+https://learn.adafruit.com/adafruit-3-5-color-320x480-tft-touchscreen-breakout?view=all\
+This page is included in the files.\
+\
+If you want to quick and dirty read all data that is produced by your MPPT controller, upload Read_All_Data.ino into the MEGA.\
+Connections are the same as in the other sketch, connections are mentioned in the sketch.\
+You do not need to connect the TFT display for this sketch, it will show all data in your Arduino monitor on your computer. \
+Just make sure to set the baudrate to 57600.\
+Every second all data produced by the MPPT controller are sent to your serial monitor. Once again, this code is written to work with a MEGA. If you want to use an Arduino UNO, you will need to create a software serial port by using and including the SoftwareSerial library. Google for it if you are new to this.\
+\
+There are three pictures in the file:\
+Picture1 Showing the MEGA with display and wiring for the MPPT controller\
+Picture2 Showing the MEGA without display, but with wiring for the MPPT controller\
+Picture3 Showing how I have bent the connectors in a 90 degree angle, so they fit under the display.\
+\
+Have fun.\
+Henk}

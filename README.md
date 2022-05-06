@@ -29,7 +29,13 @@ Vanity bulbs: https://amzn.to/3LXTOE2
 
 Ceiling dome light fixtures https://amzn.to/3vnNEXo
 
+## Entertainment System
 
+2022 Upgrade Android 11.0 TV Box 4GB RAM 64GB ROM, Android TV Box RK3318 Quad-Core 64 Bits, Dual-WiFi 2.4GHz/5GHz BT 4.2 USB 3.0 3D 6K Android Box https://amzn.to/39H1MDQ
+
+Hack to put Kodi on the above so it works from the main screen and can play all your TV and Movie files from USB 3.0 stick https://apkintvbox.com/how-to-install-kodi-on-x88-pro-10-android-tv-box/
+
+SanDisk 256GB Ultra Fit USB 3.1 Flash Drive https://amzn.to/3sfi1hP
 
 
 ## MPPT Charge Controller 
